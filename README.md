@@ -8,7 +8,7 @@ EcoYouth connects, trains, and supports youth aged 12–25 through environmental
 
 ## 🚀 Live Website
 
-Visit the site here: [https://myashtonboy.github.io/ecoyouth-website](https://myashtonboy.github.io/ecoyouth-website)
+Visit the site here: [https://myashtonboy.github.io/ecoyouth](https://myashtonboy.github.io/ecoyouth)
 
 ## 📁 Contents
 
